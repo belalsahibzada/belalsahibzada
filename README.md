@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Belal
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Networking and IT Security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+  Email : belal.sahibzada@ontariotechu.net
 
 <!---
 belalsahibzada/belalsahibzada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
