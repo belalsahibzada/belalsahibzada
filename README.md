@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Belal
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Networking and IT Security
+- 🌱 I’m currently studying Networking and IT Security @ OTU
 - 📫 How to reach me 
   Email : belal.sahibzada@ontariotechu.net
 
